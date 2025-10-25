@@ -28,7 +28,6 @@
 <li>Türkeli</li>
 </ul>
 <li>Samsun</li>
-<ul>
 <li>19 Mayıs</li>
 <li>Alaçam</li>
 <li>Asarcık</li>
